@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/OneByJorah/VirtOffice/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square" alt="MIT"></a>
+  <a href="https://github.com/contactwekeepgrowing/VirtOffice-cutaway/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square" alt="MIT"></a>
   <a href="#"><img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/three.js-r128-ff69b4?style=flat-square&logo=three.js" alt="Three.js"></a>
   <a href="#"><img src="https://img.shields.io/badge/sse-enabled-10B981?style=flat-square" alt="SSE"></a>
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/OneByJorah/VirtOffice">
+  <a href="https://github.com/contactwekeepgrowing/VirtOffice-cutaway">
     <img src="docs/screenshots/dashboard.png" alt="VirtOffice preview" width="90%">
   </a>
 </p>
@@ -49,8 +49,8 @@ VirtOffice is a real-time 3D virtual workspace that visualizes AI agent fleets. 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/OneByJorah/VirtOffice.git
-cd VirtOffice
+git clone https://github.com/contactwekeepgrowing/VirtOffice-cutaway.git
+cd VirtOffice-cutaway
 
 python3 server.py
 ```
